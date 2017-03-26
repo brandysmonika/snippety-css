@@ -1,0 +1,16 @@
+input {
+    outline: none;
+    padding: 12px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+input[type="text"] {
+    color: mediumvioletred;
+    
+}
+
+input[type="email"] {
+    color: blue;
+ 
+}

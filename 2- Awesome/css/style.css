@@ -1,0 +1,25 @@
+#border {
+    height: 60px;
+    width: 60px;
+    background-color: deepskyblue;
+    text-align: center;
+    line-height: 60px;
+    transition: all 0.3s;
+    border-radius: 50%;
+    border-color: aqua;
+    cursor: pointer;
+}
+
+#border a {
+    text-decoration: none;
+    font-size: 2em;
+    color: darkblue;
+    transition: all 0.3s;
+}
+#border a:hover {
+    color: #fff;
+}
+
+#border:hover {
+    background-color: darkblue;
+}

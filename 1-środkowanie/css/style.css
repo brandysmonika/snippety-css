@@ -1,0 +1,47 @@
+/* Sposób pierwszy START*/
+
+.square {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(242, 252, 0);
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    
+}
+
+.square-1 {
+    height: 100px;
+    width: 100px;
+    background: #c11533;
+    transform: translate(50%, 50%);
+   
+}
+
+/* Sposób pierwszy STOP */
+
+/* Sposób drugi START */
+
+.square {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(242, 252, 0);
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    position: relative;
+    
+}
+
+.square-2 {
+  height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: relative;
+    margin-top: 25%;
+    margin-left: 25%;
+    
+}
+
+/*Sposób drugi STOP */
+

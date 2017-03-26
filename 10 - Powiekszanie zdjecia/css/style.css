@@ -1,0 +1,18 @@
+.content {
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+    border: 5px solid red;
+}
+
+.content .wrapper {
+    background-image: url(../img/kotek.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 150%;
+    width: 150%;
+    transition: all .3s;
+}
+.content .wrapper:hover {
+    transform: scale(1.3);
+}
